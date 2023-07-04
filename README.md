@@ -24,6 +24,8 @@ Save the data to a file? Enter 'txt', 'word', or 'none': txt
 Enter the file path to save the TXT file: C:/path/to/save/data.txt
 Data saved to TXT file: C:/path/to/save/data.txt
 
+```
+
 ## Функционалности
 
 - Извлича текстова информация от зададения уебсайт и я сортира в параграфи.
