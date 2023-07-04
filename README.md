@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="D:/Github/2223-otj-10-project-python-web-scraper-AAMutlu20/logo/SaturnLogo.png" alt="SaturnSync Logo">
+  <img src="logo/SaturnLogo.png" alt="SaturnSync Logo">
 </p>
 # SaturnSync Web Scraper
 
