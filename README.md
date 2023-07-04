@@ -6,6 +6,24 @@
 
 Този Python скрипт ви позволява да извличате текстова информация и URL адреси на изображения от уебсайт и предоставя опции за запазване на данните в различни формати.
 
+## Примерни входни данни за скрипта:
+
+```plaintext
+Enter the website URL: https://www.example.com
+
+Text Data:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Vestibulum eget ipsum vitae massa placerat feugiat.
+Nunc eget ligula vel neque consequat dignissim.
+
+Image URLs:
+https://www.example.com/images/image1.jpg
+https://www.example.com/images/image2.jpg
+
+Save the data to a file? Enter 'txt', 'word', or 'none': txt
+Enter the file path to save the TXT file: C:/path/to/save/data.txt
+Data saved to TXT file: C:/path/to/save/data.txt
+
 ## Функционалности
 
 - Извлича текстова информация от зададения уебсайт и я сортира в параграфи.
