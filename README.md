@@ -1,6 +1,7 @@
 <p align="center">
   <img src="logo/SaturnLogo.png" alt="SaturnSync Logo">
 </p>
+
 # SaturnSync Web Scraper
 
 Този Python скрипт ви позволява да извличате текстова информация и URL адреси на изображения от уебсайт и предоставя опции за запазване на данните в различни формати.
