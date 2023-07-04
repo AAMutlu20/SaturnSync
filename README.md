@@ -4,9 +4,9 @@
 
 # SaturnSync Web Scraper
 
-Този Python скрипт ви позволява да извличате текстова информация и URL адреси на изображения от уебсайт и предоставя опции за запазване на данните в различни формати.
+This Python script allows you to extract text information and image URLs from a website and provides options to save the data in various formats.
 
-## Примерни входни данни за скрипта:
+## Sample script input:
 
 ```plaintext
 Enter the website URL: https://www.example.com
@@ -26,43 +26,43 @@ Data saved to TXT file: C:/path/to/save/data.txt
 
 ```
 
-## Функционалности
+## Functionality
 
-- Извлича текстова информация от зададения уебсайт и я сортира в параграфи.
-- Извлича URL адреси на изображения от уебсайта.
-- Показва извлечените текстови данни и URL адреси на изображенията.
-- Предлага опции за запазване на данните в TXT файл или Word файл.
+- Retrieves text information from the specified website and sorts it into paragraphs.
+- Retrieves URLs of images from the website.
+- Displays the extracted text data and image URLs.
+- Offers options to save the data to a TXT file or Word file.
 
-## Използване
+## Usage
 
-1. Клонирайте хранилището или изтеглете файла `web_scraper.py` на вашия компютър.
+1. Clone the repository or download the `web_scraper.py` file to your computer.
 
-2. Инсталирайте необходимите библиотеки:
+2. Install the required libraries:
 - `pip install requests`
 - `pip install beautifulsoup4`
 - `pip install python-docx`
    
-3. Изпълнете скрипта:
+3. Run the script:
    python web_scraper.py
 
-4. Въведете желания URL адрес на уебсайта, когато ви бъде поискано.
+4. Enter the desired website URL when prompted.
 
-5. Скриптът ще извлече данните от уебсайта и ще ги покаже - текстовите данни и URL адресите на изображенията.
+5. The script will extract the data from the website and display it - the text data and image URLs.
 
-6. Изберете дали да запазите данните, като въведете една от следните опции: 'txt', 'word' или 'none'.
-- Ако изберете 'txt', посочете пътя към файл, където да запазите данните като TXT файл.
-- Ако изберете 'word', посочете пътя към файл, където да запазите данните като Word файл.
-- Ако изберете 'none', данните няма да бъдат запазени.
+6. Choose whether to save the data by entering one of the following options: 'txt', 'word' or 'none'.
+- If you choose 'txt', specify the file path where to save the data as a TXT file.
+- If you select 'word', specify the file path where to save the data as a Word file.
+- If you select 'none', the data will not be saved.
 
-7. Скриптът ще запази данните на посочения път, ако сте го избрали.
+7. The script will save the data to the specified path if you have selected it.
 
-## Изисквания
+## Requirements
 
 - Python 3.x
-- Библиотека Requests
-- Библиотека BeautifulSoup
-- Библиотека python-docx (`pip install python-docx`)
+- Library Requests
+- Library BeautifulSoup
+- Library python-docx (`pip install python-docx`)
 
-## Лиценз
+## License
 
-Този проект е лицензиран под [MIT лиценз](LICENSE).
+This project is licensed under the [MIT license](LICENSE).
