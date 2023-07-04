@@ -61,7 +61,7 @@ Data saved to TXT file: C:/path/to/save/data.txt
 - Python 3.x
 - Library Requests
 - Library BeautifulSoup
-- Library python-docx (`pip install python-docx`)
+- Library python-docx
 
 ## License
 
